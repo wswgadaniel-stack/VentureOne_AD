@@ -1,0 +1,167 @@
+{
+  "id_inmueble": "INM-09",
+  "inmueble": {
+    "direccion": null,
+    "barrio": "ditaires",
+    "municipio": "itagui",
+    "zona": "ditaires_itagui",
+    "area_m2": 73.0,
+    "estado_texto": "REMODELADA",
+    "estado": "remodelado",
+    "coordenadas": {
+      "lat": 6.168608,
+      "lon": -75.627492,
+      "precision": "barrio",
+      "fuente": "OSM way/553803506 (Parque Ditaires)"
+    }
+  },
+  "mercado": {
+    "estado_referencia": "remodelado",
+    "precio_m2": {
+      "n": 9,
+      "mediana": 7058824,
+      "promedio": 7038232,
+      "minimo": 6060606,
+      "maximo": 7661290,
+      "desviacion": 449720,
+      "coef_variacion": 0.0639
+    },
+    "confianza": {
+      "nivel": "alta",
+      "motivo": "9 comparables (mínimo 5) y coeficiente de variación 6.39% (máximo 15%)"
+    },
+    "comparables": [
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:2",
+        "id_anuncio": "fincaraiz:193300909",
+        "fuente": "fincaraiz",
+        "area_m2": 66.0,
+        "precio": 400000000,
+        "precio_m2": 6060606
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:8",
+        "id_anuncio": "fincaraiz:192043711",
+        "fuente": "fincaraiz",
+        "area_m2": 67.0,
+        "precio": 460000000,
+        "precio_m2": 6865672
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:6",
+        "id_anuncio": "fincaraiz:192794591",
+        "fuente": "fincaraiz",
+        "area_m2": 61.0,
+        "precio": 421000000,
+        "precio_m2": 6901639
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:10",
+        "id_anuncio": "fincaraiz:192823873",
+        "fuente": "fincaraiz",
+        "area_m2": 62.0,
+        "precio": 430000000,
+        "precio_m2": 6935484
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:15",
+        "id_anuncio": "metrocuadrado:20033-M6279200",
+        "fuente": "metrocuadrado",
+        "area_m2": 68.0,
+        "precio": 480000000,
+        "precio_m2": 7058824
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:3",
+        "id_anuncio": "fincaraiz:192204073",
+        "fuente": "fincaraiz",
+        "area_m2": 60.0,
+        "precio": 430000000,
+        "precio_m2": 7166667
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:14",
+        "id_anuncio": "metrocuadrado:11326-M5606428",
+        "fuente": "metrocuadrado",
+        "area_m2": 70.0,
+        "precio": 510000000,
+        "precio_m2": 7285714
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:13",
+        "id_anuncio": "metrocuadrado:18597-M6040904",
+        "fuente": "metrocuadrado",
+        "area_m2": 61.0,
+        "precio": 451900000,
+        "precio_m2": 7408197
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:11",
+        "id_anuncio": "fincaraiz:193205150",
+        "fuente": "fincaraiz",
+        "area_m2": 62.0,
+        "precio": 475000000,
+        "precio_m2": 7661290
+      }
+    ],
+    "precio_m2_por_estado_en_zona": {
+      "remodelado": {
+        "n": 11,
+        "mediana": 7058824
+      },
+      "habitable": {
+        "n": 0,
+        "mediana": null
+      },
+      "por_remodelar": {
+        "n": 5,
+        "mediana": 5625000
+      }
+    }
+  },
+  "calidad_datos_zona": {
+    "anuncios_en_zona": 19,
+    "duplicados_eliminados": 2,
+    "anuncios_unicos": 17,
+    "anuncios_invalidos": {},
+    "anuncios_validos": 17
+  },
+  "entorno": {
+    "radio_busqueda_m": 800,
+    "estacion_mas_cercana": {
+      "nombre": "Sabaneta",
+      "sistema": "metro",
+      "distancia_m": 1743
+    },
+    "estaciones_en_radio": 0,
+    "equipamientos_en_radio": {
+      "educacion": 13,
+      "salud": 3,
+      "parques": 1,
+      "abastecimiento": 0,
+      "seguridad": 3,
+      "cultura": 1
+    },
+    "aproximado": true
+  },
+  "norma": {
+    "tratamiento_pot": null,
+    "estado": "no_disponible",
+    "motivo": "La capa POT cubre solo: medellin"
+  },
+  "datos_faltantes": [
+    "direccion",
+    "coordenadas_exactas",
+    "fecha_publicacion_comparables",
+    "precios_de_cierre"
+  ],
+  "metadatos": {
+    "version_parametros": "1.0",
+    "fecha_generacion": "2026-11-23",
+    "fecha_capas_osm": "2026-11-13T23:03:06Z",
+    "fuentes": [
+      "data/anuncios_muestra.csv",
+      "OpenStreetMap (ODbL)"
+    ]
+  }
+}

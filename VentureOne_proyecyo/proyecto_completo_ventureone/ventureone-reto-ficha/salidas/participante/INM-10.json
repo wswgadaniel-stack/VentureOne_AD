@@ -1,0 +1,119 @@
+{
+  "id_inmueble": "INM-10",
+  "inmueble": {
+    "direccion": null,
+    "barrio": "ditaires",
+    "municipio": "itagui",
+    "zona": "ditaires_itagui",
+    "area_m2": 64.0,
+    "estado_texto": "SIN REMODELAR (OBRA NEGRA)",
+    "estado": "por_remodelar",
+    "coordenadas": {
+      "lat": 6.168608,
+      "lon": -75.627492,
+      "precision": "barrio",
+      "fuente": "OSM way/553803506 (Parque Ditaires)"
+    }
+  },
+  "mercado": {
+    "estado_referencia": "por_remodelar",
+    "precio_m2": {
+      "n": 3,
+      "mediana": 5396825,
+      "promedio": 5552910,
+      "minimo": 4833333,
+      "maximo": 6428571,
+      "desviacion": 808992,
+      "coef_variacion": 0.1457
+    },
+    "confianza": {
+      "nivel": "media",
+      "motivo": "3 comparables (mínimo 3) y coeficiente de variación 14.57% (máximo 25%)"
+    },
+    "comparables": [
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:20",
+        "id_anuncio": "fincaraiz:193263982",
+        "fuente": "fincaraiz",
+        "area_m2": 60.0,
+        "precio": 290000000,
+        "precio_m2": 4833333
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:16",
+        "id_anuncio": "ciencuadras:3073540",
+        "fuente": "ciencuadras",
+        "area_m2": 63.0,
+        "precio": 340000000,
+        "precio_m2": 5396825
+      },
+      {
+        "origen": "factibilidad_proyecto2.xlsx:SECTORIAL:4",
+        "id_anuncio": "fincaraiz:192958554",
+        "fuente": "fincaraiz",
+        "area_m2": 70.0,
+        "precio": 450000000,
+        "precio_m2": 6428571
+      }
+    ],
+    "precio_m2_por_estado_en_zona": {
+      "remodelado": {
+        "n": 12,
+        "mediana": 6997154
+      },
+      "habitable": {
+        "n": 0,
+        "mediana": null
+      },
+      "por_remodelar": {
+        "n": 4,
+        "mediana": 5682284
+      }
+    }
+  },
+  "calidad_datos_zona": {
+    "anuncios_en_zona": 19,
+    "duplicados_eliminados": 2,
+    "anuncios_unicos": 17,
+    "anuncios_invalidos": {},
+    "anuncios_validos": 17
+  },
+  "entorno": {
+    "radio_busqueda_m": 800,
+    "estacion_mas_cercana": {
+      "nombre": "Sabaneta",
+      "sistema": "metro",
+      "distancia_m": 1743
+    },
+    "estaciones_en_radio": 0,
+    "equipamientos_en_radio": {
+      "educacion": 13,
+      "salud": 3,
+      "parques": 1,
+      "abastecimiento": 0,
+      "seguridad": 3,
+      "cultura": 1
+    },
+    "aproximado": true
+  },
+  "norma": {
+    "tratamiento_pot": null,
+    "estado": "no_disponible",
+    "motivo": "La capa POT cubre solo: medellin"
+  },
+  "datos_faltantes": [
+    "direccion",
+    "coordenadas_exactas",
+    "fecha_publicacion_comparables",
+    "precios_de_cierre"
+  ],
+  "metadatos": {
+    "version_parametros": "1.0",
+    "fecha_generacion": "2026-11-23",
+    "fecha_capas_osm": "2026-11-13T23:03:06Z",
+    "fuentes": [
+      "data/anuncios_muestra.csv",
+      "OpenStreetMap (ODbL)"
+    ]
+  }
+}

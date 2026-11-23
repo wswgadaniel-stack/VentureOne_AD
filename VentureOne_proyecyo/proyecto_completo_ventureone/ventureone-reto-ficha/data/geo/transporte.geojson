@@ -1,0 +1,646 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "fuente": "OpenStreetMap vía Overpass API",
+  "licencia": "ODbL",
+  "fecha_osm": "2026-11-13T23:03:06Z",
+  "bbox": [
+   6.14,
+   -75.64,
+   6.29,
+   -75.52
+  ]
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5691478,
+     6.247035
+    ]
+   },
+   "properties": {
+    "nombre": "San Antonio",
+    "sistema": "tranvia",
+    "osm_id": "node/4100629928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5970645,
+     6.1747224
+    ]
+   },
+   "properties": {
+    "nombre": "Estación del Metro Envigado",
+    "sistema": "metro",
+    "osm_id": "node/13968486423"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6065851,
+     6.1630006
+    ]
+   },
+   "properties": {
+    "nombre": "Estación del Metro Itagüí",
+    "sistema": "metro",
+    "osm_id": "node/13968486424"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5653947,
+     6.247324
+    ]
+   },
+   "properties": {
+    "nombre": "San José",
+    "sistema": "tranvia",
+    "osm_id": "relation/12601988"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.561999,
+     6.2455828
+    ]
+   },
+   "properties": {
+    "nombre": "Pabellón del agua EPM",
+    "sistema": "tranvia",
+    "osm_id": "relation/12606519"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5587636,
+     6.2439429
+    ]
+   },
+   "properties": {
+    "nombre": "Bicentenario",
+    "sistema": "tranvia",
+    "osm_id": "relation/12606520"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5538893,
+     6.2413979
+    ]
+   },
+   "properties": {
+    "nombre": "Buenos Aires",
+    "sistema": "tranvia",
+    "osm_id": "relation/12616591"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5451785,
+     6.2390213
+    ]
+   },
+   "properties": {
+    "nombre": "Loyola",
+    "sistema": "tranvia",
+    "osm_id": "relation/12616592"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5490133,
+     6.2413825
+    ]
+   },
+   "properties": {
+    "nombre": "Miraflores",
+    "sistema": "tranvia",
+    "osm_id": "relation/12616593"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.541747,
+     6.2354872
+    ]
+   },
+   "properties": {
+    "nombre": "Alejandro Echavarría",
+    "sistema": "tranvia",
+    "osm_id": "relation/12616700"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5694061,
+     6.2783177
+    ]
+   },
+   "properties": {
+    "nombre": "Caribe",
+    "sistema": "metro",
+    "osm_id": "way/36836715"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6138232,
+     6.2568558
+    ]
+   },
+   "properties": {
+    "nombre": "San Javier",
+    "sistema": "metro",
+    "osm_id": "way/150808561"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6139313,
+     6.2810723
+    ]
+   },
+   "properties": {
+    "nombre": "Estación Metrocable La Aurora",
+    "sistema": "metrocable",
+    "osm_id": "way/294736620"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.626334,
+     6.1527772
+    ]
+   },
+   "properties": {
+    "nombre": "Estación de Metro de la Estrella",
+    "sistema": "metro",
+    "osm_id": "way/335384477"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6139445,
+     6.2754038
+    ]
+   },
+   "properties": {
+    "nombre": "Vallejuelos",
+    "sistema": "metrocable",
+    "osm_id": "way/360054772"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5696781,
+     6.2471718
+    ]
+   },
+   "properties": {
+    "nombre": "San Antonio",
+    "sistema": "metro",
+    "osm_id": "way/408040656"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.564714,
+     6.2903115
+    ]
+   },
+   "properties": {
+    "nombre": "Tricentenario",
+    "sistema": "metro",
+    "osm_id": "way/504572294"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5400843,
+     6.2332873
+    ]
+   },
+   "properties": {
+    "nombre": "Oriente",
+    "sistema": "metrocable",
+    "osm_id": "way/607398813"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5492131,
+     6.2418786
+    ]
+   },
+   "properties": {
+    "nombre": "Miraflores",
+    "sistema": "metrocable",
+    "osm_id": "way/607398836"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5413737,
+     6.2476638
+    ]
+   },
+   "properties": {
+    "nombre": "Trece de Noviembre",
+    "sistema": "metrocable",
+    "osm_id": "way/607398837"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.54455,
+     6.2452913
+    ]
+   },
+   "properties": {
+    "nombre": "El Pinal",
+    "sistema": "metrocable",
+    "osm_id": "way/607398838"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5363569,
+     6.2365979
+    ]
+   },
+   "properties": {
+    "nombre": "Las Torres",
+    "sistema": "metrocable",
+    "osm_id": "way/607465792"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5287089,
+     6.2348721
+    ]
+   },
+   "properties": {
+    "nombre": "Villa Sierra",
+    "sistema": "metrocable",
+    "osm_id": "way/607466637"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.588234,
+     6.2533474
+    ]
+   },
+   "properties": {
+    "nombre": "Estadio",
+    "sistema": "metro",
+    "osm_id": "way/918213503"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5977415,
+     6.2587007
+    ]
+   },
+   "properties": {
+    "nombre": "Floresta",
+    "sistema": "metro",
+    "osm_id": "way/918213505"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5658031,
+     6.2694069
+    ]
+   },
+   "properties": {
+    "nombre": "Universidad",
+    "sistema": "metro",
+    "osm_id": "way/921531398"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5633677,
+     6.2638788
+    ]
+   },
+   "properties": {
+    "nombre": "Hospital",
+    "sistema": "metro",
+    "osm_id": "way/921531897"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6090203,
+     6.2307557
+    ]
+   },
+   "properties": {
+    "nombre": "Universidad de Medellín",
+    "sistema": "metroplus",
+    "osm_id": "way/922790192"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5829294,
+     6.2529704
+    ]
+   },
+   "properties": {
+    "nombre": "Suramericana",
+    "sistema": "metro",
+    "osm_id": "way/929621147"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6037452,
+     6.2580823
+    ]
+   },
+   "properties": {
+    "nombre": "Santa Lucía",
+    "sistema": "metro",
+    "osm_id": "way/932453764"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.575114,
+     6.2490305
+    ]
+   },
+   "properties": {
+    "nombre": "Cisneros",
+    "sistema": "metro",
+    "osm_id": "way/932492025"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5403312,
+     6.2332831
+    ]
+   },
+   "properties": {
+    "nombre": "Oriente",
+    "sistema": "tranvia",
+    "osm_id": "way/933933012"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5661631,
+     6.2568439
+    ]
+   },
+   "properties": {
+    "nombre": "Prado",
+    "sistema": "metro",
+    "osm_id": "way/934500124"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5682091,
+     6.2505018
+    ]
+   },
+   "properties": {
+    "nombre": "Parque Berrío",
+    "sistema": "metro",
+    "osm_id": "way/934504294"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5714158,
+     6.2429322
+    ]
+   },
+   "properties": {
+    "nombre": "Alpujarra",
+    "sistema": "metro",
+    "osm_id": "way/935493290"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5731664,
+     6.2384159
+    ]
+   },
+   "properties": {
+    "nombre": "Exposiciones",
+    "sistema": "metro",
+    "osm_id": "way/935493298"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.575633,
+     6.2300373
+    ]
+   },
+   "properties": {
+    "nombre": "Industriales",
+    "sistema": "metro",
+    "osm_id": "way/935493310"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5781233,
+     6.21198
+    ]
+   },
+   "properties": {
+    "nombre": "Poblado",
+    "sistema": "metro",
+    "osm_id": "way/935503247"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5817818,
+     6.1939974
+    ]
+   },
+   "properties": {
+    "nombre": "Aguacatala",
+    "sistema": "metro",
+    "osm_id": "way/935657177"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5860557,
+     6.1861552
+    ]
+   },
+   "properties": {
+    "nombre": "Estación del Metro Ayurá",
+    "sistema": "metro",
+    "osm_id": "way/935663461"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6161378,
+     6.1577384
+    ]
+   },
+   "properties": {
+    "nombre": "Sabaneta",
+    "sistema": "metro",
+    "osm_id": "way/935674584"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.6136945,
+     6.2656493
+    ]
+   },
+   "properties": {
+    "nombre": "Juan XXIII",
+    "sistema": "metrocable",
+    "osm_id": "way/1428301173"
+   }
+  }
+ ]
+}

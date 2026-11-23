@@ -1,0 +1,81 @@
+# Parámetros de la ficha de mercado y entorno — valores de ejemplo, editables.
+# Toda regla del cálculo sale de este archivo. El código no tiene números fijos.
+version: "1.0"
+
+# --- Comparables -----------------------------------------------------------
+comparables:
+  # Un comparable tiene la misma zona y el mismo estado canónico que el inmueble.
+  # Su área queda dentro de ±tolerancia_area del área del inmueble.
+  tolerancia_area: 0.30
+  # Anuncios con precio/m² fuera de este rango se descartan como inválidos.
+  rango_precio_m2_valido: [1000000, 20000000]
+  # Tipos de precio aceptados. Un "cierre" pesa más que un "pedido", pero la
+  # muestra actual solo tiene precios pedidos.
+  tipos_precio: [pedido, cierre]
+
+# --- Deduplicación ---------------------------------------------------------
+deduplicacion:
+  # Se aplican en orden. Se conserva la primera fila del CSV.
+  # 1) mismo id_anuncio (si no está vacío)
+  # 2) misma combinación de estas columnas (detecta el mismo inmueble en dos fuentes)
+  claves_sin_id: [zona, area_m2, precio]
+
+# --- Estados del inmueble --------------------------------------------------
+# El texto del CSV se normaliza: minúsculas, sin tildes, sin "?", sin espacios
+# extremos. Después se busca en estas listas. Un texto sin mapeo queda
+# "sin_clasificar" y no entra en ningún grupo de comparables.
+estados:
+  remodelado:
+    - remodelado
+    - remodelada
+  habitable:
+    - habitable por remodelar
+    - vivir
+    - ok
+  por_remodelar:
+    - sin remodelar
+    - sin remodelar (obra negra)
+    - remodelar
+    - reformar
+
+# --- Regla de confianza ----------------------------------------------------
+# Se evalúa de arriba hacia abajo. El primer nivel que se cumple es el resultado.
+# coef_variacion = desviación estándar muestral / promedio del precio/m².
+confianza:
+  alta:
+    min_comparables: 5
+    max_coef_variacion: 0.15
+  media:
+    min_comparables: 3
+    max_coef_variacion: 0.25
+  # Si no cumple "media", el nivel es "baja".
+  # Con precision_coordenadas = "barrio", el bloque de entorno se marca como aproximado.
+
+# --- Entorno ---------------------------------------------------------------
+entorno:
+  radio_busqueda_m: 800
+  # Sistemas de transporte que cuentan como "estación".
+  # "metroplus" existe en la capa, pero OSM solo tiene 1 estación mapeada: no se incluye.
+  sistemas_transporte: [metro, tranvia, metrocable]
+  # Categorías de equipamientos y etiquetas de OpenStreetMap que las definen.
+  categorias_equipamientos:
+    educacion:
+      amenity: [school, college, university, kindergarten]
+    salud:
+      amenity: [hospital, clinic, doctors]
+    parques:
+      leisure: [park]
+    abastecimiento:
+      shop: [supermarket]
+      amenity: [marketplace]
+    seguridad:
+      amenity: [police, fire_station]
+    cultura:
+      amenity: [library, community_centre, theatre]
+
+# --- Norma urbanística -----------------------------------------------------
+norma:
+  # Capa de tratamientos del POT (Acuerdo 48 de 2014). Solo cubre Medellín.
+  archivo_pot: data/geo/pot_tratamientos.geojson
+  campo_tratamiento: TRATAMIENTO
+  municipios_cubiertos: [medellin]

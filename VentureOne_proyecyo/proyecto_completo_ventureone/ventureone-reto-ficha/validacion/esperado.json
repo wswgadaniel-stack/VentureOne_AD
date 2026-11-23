@@ -1,0 +1,93 @@
+{
+  "_descripcion": "Valores del cálculo manual (validacion/calculo_manual.md). Parámetros config/parametros.yaml v1.0 y capas OSM del 2026-11-13. Precios en COP redondeados a peso entero.",
+  "_tolerancias": {"precio_cop": 1, "coef_variacion": 0.0005, "distancia_m": 5},
+  "inmuebles": {
+    "INM-04": {
+      "mercado": {
+        "estado_referencia": "habitable",
+        "n": 9,
+        "mediana": 4375000,
+        "promedio": 4871967,
+        "desviacion": 1148433,
+        "coef_variacion": 0.2357,
+        "confianza": "media",
+        "comparables": [
+          "extension_poligono.xlsx:REMODELAR:88",
+          "extension_poligono.xlsx:Bombona:9",
+          "extension_poligono.xlsx:REMODELAR:85",
+          "extension_poligono.xlsx:REMODELAR:35",
+          "extension_poligono.xlsx:REMODELAR:89",
+          "extension_poligono.xlsx:REMODELAR:84",
+          "extension_poligono.xlsx:Bombona:12",
+          "extension_poligono.xlsx:Bombona:10",
+          "extension_poligono.xlsx:Bombona:15"
+        ]
+      },
+      "calidad_datos_zona": {"anuncios_en_zona": 82, "duplicados_eliminados": 28, "anuncios_unicos": 54, "anuncios_validos": 33},
+      "entorno": {
+        "estacion_mas_cercana": {"nombre": "Buenos Aires", "sistema": "tranvia", "distancia_m": 1000},
+        "estaciones_en_radio": 0,
+        "equipamientos_en_radio": {"educacion": 22, "salud": 2, "parques": 12, "abastecimiento": 1, "seguridad": 1, "cultura": 0}
+      },
+      "norma": {"estado": "pendiente_capa"},
+      "datos_faltantes": ["fecha_publicacion_comparables", "precios_de_cierre"]
+    },
+    "INM-06": {
+      "mercado": {
+        "estado_referencia": "remodelado",
+        "n": 6,
+        "mediana": 6729529,
+        "promedio": 6888653,
+        "desviacion": 1170939,
+        "coef_variacion": 0.17,
+        "confianza": "media",
+        "comparables": [
+          "factibilidad_castellana.xlsx:SECTORIAL:4",
+          "factibilidad_castellana.xlsx:SECTORIAL:7",
+          "factibilidad_castellana.xlsx:SECTORIAL:2",
+          "factibilidad_castellana.xlsx:SECTORIAL:3",
+          "factibilidad_castellana.xlsx:SECTORIAL:8",
+          "factibilidad_castellana.xlsx:SECTORIAL:9"
+        ]
+      },
+      "calidad_datos_zona": {"anuncios_en_zona": 16, "duplicados_eliminados": 3, "anuncios_unicos": 13, "anuncios_validos": 13},
+      "entorno": {
+        "estacion_mas_cercana": {"nombre": "Santa Lucía", "sistema": "metro", "distancia_m": 1994},
+        "estaciones_en_radio": 0,
+        "equipamientos_en_radio": {"educacion": 23, "salud": 6, "parques": 11, "abastecimiento": 13, "seguridad": 1, "cultura": 5}
+      },
+      "norma": {"estado": "pendiente_capa"},
+      "datos_faltantes": ["direccion", "coordenadas_exactas", "fecha_publicacion_comparables", "precios_de_cierre"]
+    },
+    "INM-09": {
+      "mercado": {
+        "estado_referencia": "remodelado",
+        "n": 9,
+        "mediana": 7058824,
+        "promedio": 7038232,
+        "desviacion": 449720,
+        "coef_variacion": 0.0639,
+        "confianza": "alta",
+        "comparables": [
+          "factibilidad_proyecto2.xlsx:SECTORIAL:2",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:8",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:6",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:10",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:15",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:3",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:14",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:13",
+          "factibilidad_proyecto2.xlsx:SECTORIAL:11"
+        ]
+      },
+      "calidad_datos_zona": {"anuncios_en_zona": 19, "duplicados_eliminados": 2, "anuncios_unicos": 17, "anuncios_validos": 17},
+      "entorno": {
+        "estacion_mas_cercana": {"nombre": "Sabaneta", "sistema": "metro", "distancia_m": 1743},
+        "estaciones_en_radio": 0,
+        "equipamientos_en_radio": {"educacion": 13, "salud": 3, "parques": 1, "abastecimiento": 0, "seguridad": 3, "cultura": 1}
+      },
+      "norma": {"estado": "no_disponible"},
+      "datos_faltantes": ["direccion", "coordenadas_exactas", "fecha_publicacion_comparables", "precios_de_cierre"]
+    }
+  }
+}

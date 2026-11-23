@@ -1,0 +1,118 @@
+id_anuncio,fuente,fecha,zona,municipio,barrio,area_m2,precio,habitaciones,banos,parqueadero,estado,tipo_precio,origen
+fincaraiz:10710482,fincaraiz,,castellana_laureles,medellin,la castellana,94,610000000,3,2,1,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:2
+fincaraiz:193287983,fincaraiz,,castellana_laureles,medellin,la castellana,99,690000000,3,2,2,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:3
+fincaraiz:192780858,fincaraiz,,castellana_laureles,medellin,laureles,92,497000000,3,2,-,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:4
+fincaraiz:192971383,fincaraiz,,castellana_laureles,medellin,la castellana,91,590000000,3,3,1,HABITABLE POR REMODELAR,pedido,factibilidad_castellana.xlsx:SECTORIAL:5
+fincaraiz:193663348,fincaraiz,,castellana_laureles,medellin,santa teresita,89,580000000,4,3,1,HABITABLE POR REMODELAR,pedido,factibilidad_castellana.xlsx:SECTORIAL:6
+fincaraiz:193632316,fincaraiz,,castellana_laureles,medellin,laureles,90,550000000,3,2,?,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:7
+fincaraiz:192987663,fincaraiz,,castellana_laureles,medellin,laureles,94,720000000,3,2,1,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:8
+fincaraiz:193440669,fincaraiz,,castellana_laureles,medellin,la castellana,100,870000000,3,2,1,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:9
+fincaraiz:193287983,fincaraiz,,castellana_laureles,medellin,la castellana,99,690000000,3,2,2,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:10
+fincaraiz:10710482,fincaraiz,,castellana_laureles,medellin,la castellana,94,610000000,3,2,1,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:11
+fincaraiz:193440669,fincaraiz,,castellana_laureles,medellin,la castellana,100,870000000,3,2,1,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:12
+fincaraiz:193331537,fincaraiz,,castellana_laureles,medellin,la castellana,90,580000000,3,2,1,HABITABLE POR REMODELAR,pedido,factibilidad_castellana.xlsx:SECTORIAL:13
+fincaraiz:193631554,fincaraiz,,castellana_laureles,medellin,laureles,100,890000000,3,2,1,HABITABLE POR REMODELAR,pedido,factibilidad_castellana.xlsx:SECTORIAL:14
+fincaraiz:193226367,fincaraiz,,castellana_laureles,medellin,la castellana,82,490000000,3,2,?,HABITABLE POR REMODELAR,pedido,factibilidad_castellana.xlsx:SECTORIAL:15
+fincaraiz:193329233,fincaraiz,,castellana_laureles,medellin,simon bolivar,82,450000000,3,4,1,HABITABLE POR REMODELAR,pedido,factibilidad_castellana.xlsx:SECTORIAL:16
+fincaraiz:191578699,fincaraiz,,castellana_laureles,medellin,la castellana,90,820000000,3,2,1,REMODELADO,pedido,factibilidad_castellana.xlsx:SECTORIAL:17
+fincaraiz:193300909,fincaraiz,,ditaires_itagui,envigado,,66,400000000,3,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:2
+fincaraiz:192204073,fincaraiz,,ditaires_itagui,itagui,ditaires,60,430000000,2,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:3
+fincaraiz:192958554,fincaraiz,,ditaires_itagui,itagui,ditaires,70,450000000,3,2,1,SIN REMODELAR (OBRA NEGRA),pedido,factibilidad_proyecto2.xlsx:SECTORIAL:4
+fincaraiz:192959138,fincaraiz,,ditaires_itagui,itagui,ditaires,73,490000000,3,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:5
+fincaraiz:192794591,fincaraiz,,ditaires_itagui,itagui,ditaires,61,421000000,2,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:6
+fincaraiz:193131396,fincaraiz,,ditaires_itagui,itagui,ditaires,73,490000000,3,2,1,REMODELADA ?,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:7
+fincaraiz:192043711,fincaraiz,,ditaires_itagui,itagui,ditaires,67,460000000,3,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:8
+fincaraiz:192937244,fincaraiz,,ditaires_itagui,itagui,,73,490000000,3,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:9
+fincaraiz:192823873,fincaraiz,,ditaires_itagui,itagui,,62,430000000,3,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:10
+fincaraiz:193205150,fincaraiz,,ditaires_itagui,itagui,ditaires,62,475000000,2,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:11
+metrocuadrado:17017-M5712498,metrocuadrado,,ditaires_itagui,itagui,ditaires,64,360000000,2,2,1,SIN REMODELAR (OBRA NEGRA),pedido,factibilidad_proyecto2.xlsx:SECTORIAL:12
+metrocuadrado:18597-M6040904,metrocuadrado,,ditaires_itagui,itagui,ditaires,61,451900000,2,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:13
+metrocuadrado:11326-M5606428,metrocuadrado,,ditaires_itagui,itagui,ditaires,70,510000000,3,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:14
+metrocuadrado:20033-M6279200,metrocuadrado,,ditaires_itagui,itagui,ditaires,68,480000000,3,2,1,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:15
+ciencuadras:3073540,ciencuadras,,ditaires_itagui,itagui,ditaires,63,340000000,2,2,1,SIN REMODELAR (OBRA NEGRA),pedido,factibilidad_proyecto2.xlsx:SECTORIAL:16
+fincaraiz:193341627,fincaraiz,,ditaires_itagui,itagui,ditaires,123,770000000,3,3,0,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:19
+fincaraiz:193263982,fincaraiz,,ditaires_itagui,itagui,ditaires,60,290000000,2,1,1,SIN REMODELAR,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:20
+fincaraiz:193139564,fincaraiz,,ditaires_itagui,itagui,ditaires,101,910000000,3,3,2,REMODELADA,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:21
+fincaraiz:192936476,fincaraiz,,ditaires_itagui,itagui,ditaires,93,555000000,3,2,1,SIN REMODELAR,pedido,factibilidad_proyecto2.xlsx:SECTORIAL:22
+,aviso_calle,,buenos_aires_el_salvador,medellin,,48,320000000,3,2,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:6
+,aviso_calle,,buenos_aires_el_salvador,medellin,,155,350000000,5,2,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:14
+,aviso_calle,,buenos_aires_el_salvador,medellin,,140,380000000,,,,,pedido,extension_poligono.xlsx:REMODELAR:33
+,aviso_calle,,buenos_aires_el_salvador,medellin,,55,215000000,2,2,,VIVIR,pedido,extension_poligono.xlsx:REMODELAR:35
+,aviso_calle,,buenos_aires_el_salvador,medellin,Buenos aires,191,440000000,3,2,,,pedido,extension_poligono.xlsx:REMODELAR:38
+,aviso_calle,,buenos_aires_el_salvador,medellin,salvadror/palmas,73,310000000,3,2,,,pedido,extension_poligono.xlsx:REMODELAR:39
+,aviso_calle,,buenos_aires_el_salvador,medellin,,180,1000000000,5,,,,pedido,extension_poligono.xlsx:REMODELAR:43
+,aviso_calle,,buenos_aires_el_salvador,medellin,,200,550000000,4,2,,,pedido,extension_poligono.xlsx:REMODELAR:45
+,aviso_calle,,buenos_aires_el_salvador,medellin,,237,500000000,5,2,,,pedido,extension_poligono.xlsx:REMODELAR:49
+,aviso_calle,,buenos_aires_el_salvador,medellin,,70,235000000,4,2,,,pedido,extension_poligono.xlsx:REMODELAR:52
+,aviso_calle,,buenos_aires_el_salvador,medellin,,,310000000,2,1,,,pedido,extension_poligono.xlsx:REMODELAR:53
+,aviso_calle,,buenos_aires_el_salvador,medellin,,170,320000000,4,1,,,pedido,extension_poligono.xlsx:REMODELAR:55
+,aviso_calle,,buenos_aires_el_salvador,medellin,El salvador (diagonal a la iglesia),292,990000000,9,2,,,pedido,extension_poligono.xlsx:REMODELAR:56
+,aviso_calle,,buenos_aires_el_salvador,medellin,,75,190000000,3,1,,,pedido,extension_poligono.xlsx:REMODELAR:59
+,aviso_calle,,buenos_aires_el_salvador,medellin,El Salvador (arriba de gimnasio 36 la que baja),70.4,250000000,2,,,,pedido,extension_poligono.xlsx:REMODELAR:60
+fincaraiz:192814617,fincaraiz,,buenos_aires_el_salvador,medellin,El Salvador,71,189000000,3,2,,,pedido,extension_poligono.xlsx:REMODELAR:65
+fincaraiz:192824557,fincaraiz,,buenos_aires_el_salvador,medellin,Las Palmas,61,240000000,2,1,,,pedido,extension_poligono.xlsx:REMODELAR:66
+fincaraiz:191722056#,fincaraiz,,buenos_aires_el_salvador,medellin,Las Palmas,57,234000000,2,2,,,pedido,extension_poligono.xlsx:REMODELAR:67
+fincaraiz:7387557,fincaraiz,,buenos_aires_el_salvador,medellin,el Salvador,73,300000000,3,2,,,pedido,extension_poligono.xlsx:REMODELAR:68
+fincaraiz:10766727,fincaraiz,,buenos_aires_el_salvador,medellin,El Salvador,57,225000000,2,1,,,pedido,extension_poligono.xlsx:REMODELAR:69
+fincaraiz:192687997,fincaraiz,,buenos_aires_el_salvador,medellin,Las Palmas,61,200000000,3,1,,,pedido,extension_poligono.xlsx:REMODELAR:70
+fincaraiz:7387557,fincaraiz,,buenos_aires_el_salvador,medellin,El Salvador,73,300000000,3,2,,,pedido,extension_poligono.xlsx:REMODELAR:71
+,otra,,buenos_aires_el_salvador,medellin,,121,275000000,3,2,,Reformar,pedido,extension_poligono.xlsx:REMODELAR:72
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,89,200000000,2,1,,Reformar,pedido,extension_poligono.xlsx:REMODELAR:73
+,facebook,,buenos_aires_el_salvador,medellin,,74,225000000,3,1,,,pedido,extension_poligono.xlsx:REMODELAR:74
+,facebook,,buenos_aires_el_salvador,medellin,,38,120000000,2,1,,,pedido,extension_poligono.xlsx:REMODELAR:75
+,facebook,,buenos_aires_el_salvador,medellin,,70,260000000,2,1,,,pedido,extension_poligono.xlsx:REMODELAR:76
+arrendamientos_santafe:V12132,arrendamientos_santafe,,buenos_aires_el_salvador,medellin,El Salvador,57,225000000,2,1,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:77
+arrendamientos_santafe:V10746,arrendamientos_santafe,,buenos_aires_el_salvador,medellin,El Salvador,73,300000000,3,2,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:78
+arrendamientos_santafe:V12835,arrendamientos_santafe,,buenos_aires_el_salvador,medellin,El Salvador,43,290000000,4,2,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:79
+fincaraiz:192947650,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,54,240000000,3,2,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:80
+,facebook,,buenos_aires_el_salvador,medellin,,43,220000000,2,1,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:81
+fincaraiz:193042067,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,67,320000000,3,2,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:82
+fincaraiz:192609616,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,65,250000000,2,2,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:83
+fincaraiz:8146402,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,62,315000000,,,,OK,pedido,extension_poligono.xlsx:REMODELAR:84
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,64,250000000,2,1,,OK,pedido,extension_poligono.xlsx:REMODELAR:85
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,47,160000000,1,1,,OK,pedido,extension_poligono.xlsx:REMODELAR:86
+,facebook,,buenos_aires_el_salvador,medellin,La milagrosa,48,225000000,2,1,,OK,pedido,extension_poligono.xlsx:REMODELAR:87
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,64,245000000,2,1,,OK,pedido,extension_poligono.xlsx:REMODELAR:88
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,80,350000000,3,2,,OK,pedido,extension_poligono.xlsx:REMODELAR:89
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,86,265000000,3,1,,Remodelar,pedido,extension_poligono.xlsx:REMODELAR:90
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,105,320000000,,,,OK,pedido,extension_poligono.xlsx:REMODELAR:91
+,facebook,,buenos_aires_el_salvador,medellin,La milagrosa,37,180000000,2,1,,OK,pedido,extension_poligono.xlsx:REMODELAR:92
+fincaraiz:193042067,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,67,320000000,3,2,,Remodelar,pedido,extension_poligono.xlsx:Bombona:6
+fincaraiz:192609616,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,65,250000000,2,2,,Remodelar,pedido,extension_poligono.xlsx:Bombona:7
+fincaraiz:8146402,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,62,315000000,3,2,,Vivir,pedido,extension_poligono.xlsx:Bombona:8
+fincaraiz:191455596,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,82,320000000,3,2,,Vivir,pedido,extension_poligono.xlsx:Bombona:9
+fincaraiz:193060833,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,65,420000000,2,2,,Vivir,pedido,extension_poligono.xlsx:Bombona:10
+fincaraiz:191865763,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,52,247000000,3,1,,Remodelar,pedido,extension_poligono.xlsx:Bombona:11
+fincaraiz:11002434,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,78,450000000,3,2,,Vivir,pedido,extension_poligono.xlsx:Bombona:12
+fincaraiz:191455271,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,70,365000000,3,2,,remodelar,pedido,extension_poligono.xlsx:Bombona:13
+fincaraiz:191795362,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,48.6,250000000,2,1,,remodelar,pedido,extension_poligono.xlsx:Bombona:14
+fincaraiz:192171314,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,65,430000000,3,2,,vivir,pedido,extension_poligono.xlsx:Bombona:15
+fincaraiz:192983429,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,60,280000000,3,2,,remodelar,pedido,extension_poligono.xlsx:Bombona:16
+fincaraiz:191508829,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,68,350000000,2,2,,remodelar,pedido,extension_poligono.xlsx:Bombona:17
+fincaraiz:193000855,fincaraiz,,buenos_aires_el_salvador,medellin,Bombona No1,60,260000000,2,2,,remodelar,pedido,extension_poligono.xlsx:Bombona:18
+,aviso_calle,,buenos_aires_el_salvador,medellin,El Salvador (arriba de gimnasio 36 la que baja),70.4,250000000,2,,,Remodelar,pedido,extension_poligono.xlsx:El salvador:3
+,aviso_calle,,buenos_aires_el_salvador,medellin,El Salvador,100,580000000,,,,Remodelar,pedido,extension_poligono.xlsx:El salvador:4
+fincaraiz:7387557,fincaraiz,,buenos_aires_el_salvador,medellin,El Salvador,73,300000000,3,2,,Remodelar,pedido,extension_poligono.xlsx:El salvador:5
+arrendamientos_santafe:V12132,arrendamientos_santafe,,buenos_aires_el_salvador,medellin,El Salvador,57,225000000,2,1,,Remodelar,pedido,extension_poligono.xlsx:El salvador:6
+arrendamientos_santafe:V10746,arrendamientos_santafe,,buenos_aires_el_salvador,medellin,El Salvador,73,300000000,3,2,,Remodelar,pedido,extension_poligono.xlsx:El salvador:7
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,86,265000000,3,1,,Remodelar,pedido,extension_poligono.xlsx:El salvador:8
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,50.34,220000000,3,1,,Remodelar,pedido,extension_poligono.xlsx:El salvador:9
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,89,200000000,2,1,,Reformar,pedido,extension_poligono.xlsx:El salvador:10
+,aviso_calle,,buenos_aires_el_salvador,medellin,salvadror/palmas,73,310000000,3,2,,Ok,pedido,extension_poligono.xlsx:El salvador:11
+fincaraiz:192814617,fincaraiz,,buenos_aires_el_salvador,medellin,El Salvador,71,189000000,3,2,,OK,pedido,extension_poligono.xlsx:El salvador:12
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,64,250000000,2,1,,OK,pedido,extension_poligono.xlsx:El salvador:13
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,47,160000000,1,1,,OK,pedido,extension_poligono.xlsx:El salvador:14
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,64,245000000,2,1,,OK,pedido,extension_poligono.xlsx:El salvador:15
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,80,350000000,3,2,,OK,pedido,extension_poligono.xlsx:El salvador:16
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,105,320000000,3,,,OK,pedido,extension_poligono.xlsx:El salvador:17
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,47,170000000,1,1,,Ok,pedido,extension_poligono.xlsx:El salvador:18
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,64,245000000,2,1,,OK,pedido,extension_poligono.xlsx:El salvador:19
+arrendamientos_santafe:V10061,arrendamientos_santafe,,buenos_aires_el_salvador,medellin,,126,350000000,4,2,,OK,pedido,extension_poligono.xlsx:El salvador:20
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,64,250000000,2,1,,Vivir,pedido,extension_poligono.xlsx:VIVIR:5
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,47,160000000,1,1,,Vivir,pedido,extension_poligono.xlsx:VIVIR:6
+,facebook,,buenos_aires_el_salvador,medellin,El salvador,48,225000000,2,1,,Vivir,pedido,extension_poligono.xlsx:VIVIR:7
+,facebook,,buenos_aires_el_salvador,medellin,,64,245000000,2,1,,Vivir,pedido,extension_poligono.xlsx:VIVIR:8
+,facebook,,buenos_aires_el_salvador,medellin,,80,350000000,3,2,,Vivir,pedido,extension_poligono.xlsx:VIVIR:9
+,facebook,,buenos_aires_el_salvador,medellin,,86,265000000,3,1,,,pedido,extension_poligono.xlsx:VIVIR:10
+,facebook,,buenos_aires_el_salvador,medellin,,105,320000000,,,,,pedido,extension_poligono.xlsx:VIVIR:11
+,facebook,,buenos_aires_el_salvador,medellin,,37,180000000,2,1,,,pedido,extension_poligono.xlsx:VIVIR:12

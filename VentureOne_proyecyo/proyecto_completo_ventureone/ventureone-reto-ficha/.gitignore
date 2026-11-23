@@ -1,0 +1,16 @@
+# Ignorar archivos del sistema de Google Colab
+.config/sample_data/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales y ZIPs generados
+fichas_comerciales.zip
+comparativo_*.html
+
+# Ignorar carpetas virtuales y dependencias de Python si las hubiera
+venv/
+.venv/
+__pycache__/
+*.pyc

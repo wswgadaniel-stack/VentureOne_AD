@@ -1,0 +1,143 @@
+{
+  "id_inmueble": "INM-08",
+  "inmueble": {
+    "direccion": null,
+    "barrio": "laureles",
+    "municipio": "medellin",
+    "zona": "castellana_laureles",
+    "area_m2": 92.0,
+    "estado_texto": "REMODELADO",
+    "estado": "remodelado",
+    "coordenadas": {
+      "lat": 6.242,
+      "lon": -75.595833,
+      "precision": "barrio",
+      "fuente": "OSM node/375908075 (Laureles)"
+    }
+  },
+  "mercado": {
+    "estado_referencia": "remodelado",
+    "precio_m2": {
+      "n": 6,
+      "mediana": 7314636,
+      "promedio": 7506809,
+      "minimo": 6111111,
+      "maximo": 9111111,
+      "desviacion": 1207683,
+      "coef_variacion": 0.1609
+    },
+    "confianza": {
+      "nivel": "media",
+      "motivo": "6 comparables (mínimo 3) y coeficiente de variación 16.09% (máximo 25%)"
+    },
+    "comparables": [
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:7",
+        "id_anuncio": "fincaraiz:193632316",
+        "fuente": "fincaraiz",
+        "area_m2": 90.0,
+        "precio": 550000000,
+        "precio_m2": 6111111
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:2",
+        "id_anuncio": "fincaraiz:10710482",
+        "fuente": "fincaraiz",
+        "area_m2": 94.0,
+        "precio": 610000000,
+        "precio_m2": 6489362
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:3",
+        "id_anuncio": "fincaraiz:193287983",
+        "fuente": "fincaraiz",
+        "area_m2": 99.0,
+        "precio": 690000000,
+        "precio_m2": 6969697
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:8",
+        "id_anuncio": "fincaraiz:192987663",
+        "fuente": "fincaraiz",
+        "area_m2": 94.0,
+        "precio": 720000000,
+        "precio_m2": 7659574
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:9",
+        "id_anuncio": "fincaraiz:193440669",
+        "fuente": "fincaraiz",
+        "area_m2": 100.0,
+        "precio": 870000000,
+        "precio_m2": 8700000
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:17",
+        "id_anuncio": "fincaraiz:191578699",
+        "fuente": "fincaraiz",
+        "area_m2": 90.0,
+        "precio": 820000000,
+        "precio_m2": 9111111
+      }
+    ],
+    "precio_m2_por_estado_en_zona": {
+      "remodelado": {
+        "n": 6,
+        "mediana": 7314636
+      },
+      "habitable": {
+        "n": 6,
+        "mediana": 6463980
+      },
+      "por_remodelar": {
+        "n": 0,
+        "mediana": null
+      }
+    }
+  },
+  "calidad_datos_zona": {
+    "anuncios_en_zona": 16,
+    "duplicados_eliminados": 3,
+    "anuncios_unicos": 13,
+    "anuncios_invalidos": {},
+    "anuncios_validos": 13
+  },
+  "entorno": {
+    "radio_busqueda_m": 800,
+    "estacion_mas_cercana": {
+      "nombre": "Estadio",
+      "sistema": "metro",
+      "distancia_m": 1516
+    },
+    "estaciones_en_radio": 0,
+    "equipamientos_en_radio": {
+      "educacion": 20,
+      "salud": 25,
+      "parques": 16,
+      "abastecimiento": 14,
+      "seguridad": 1,
+      "cultura": 2
+    },
+    "aproximado": true
+  },
+  "norma": {
+    "tratamiento_pot": null,
+    "estado": "pendiente_capa",
+    "motivo": "Falta el archivo data/geo/pot_tratamientos.geojson"
+  },
+  "datos_faltantes": [
+    "direccion",
+    "coordenadas_exactas",
+    "fecha_publicacion_comparables",
+    "precios_de_cierre"
+  ],
+  "metadatos": {
+    "version_parametros": "1.0",
+    "fecha_generacion": "2026-11-23",
+    "fecha_capas_osm": "2026-11-13T23:03:06Z",
+    "fuentes": [
+      "data/anuncios_muestra.csv",
+      "OpenStreetMap (ODbL)"
+    ]
+  }
+}

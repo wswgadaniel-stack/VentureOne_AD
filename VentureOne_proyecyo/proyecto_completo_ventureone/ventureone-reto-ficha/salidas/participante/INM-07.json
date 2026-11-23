@@ -1,0 +1,135 @@
+{
+  "id_inmueble": "INM-07",
+  "inmueble": {
+    "direccion": null,
+    "barrio": "la castellana",
+    "municipio": "medellin",
+    "zona": "castellana_laureles",
+    "area_m2": 90.0,
+    "estado_texto": "HABITABLE POR REMODELAR",
+    "estado": "habitable",
+    "coordenadas": {
+      "lat": 6.240226,
+      "lon": -75.605418,
+      "precision": "barrio",
+      "fuente": "OSM node/405051001 (La Castellana)"
+    }
+  },
+  "mercado": {
+    "estado_referencia": "habitable",
+    "precio_m2": {
+      "n": 5,
+      "mediana": 6483516,
+      "promedio": 6672757,
+      "minimo": 5487805,
+      "maximo": 8900000,
+      "desviacion": 1314425,
+      "coef_variacion": 0.197
+    },
+    "confianza": {
+      "nivel": "media",
+      "motivo": "5 comparables (mínimo 3) y coeficiente de variación 19.70% (máximo 25%)"
+    },
+    "comparables": [
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:16",
+        "id_anuncio": "fincaraiz:193329233",
+        "fuente": "fincaraiz",
+        "area_m2": 82.0,
+        "precio": 450000000,
+        "precio_m2": 5487805
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:15",
+        "id_anuncio": "fincaraiz:193226367",
+        "fuente": "fincaraiz",
+        "area_m2": 82.0,
+        "precio": 490000000,
+        "precio_m2": 5975610
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:5",
+        "id_anuncio": "fincaraiz:192971383",
+        "fuente": "fincaraiz",
+        "area_m2": 91.0,
+        "precio": 590000000,
+        "precio_m2": 6483516
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:6",
+        "id_anuncio": "fincaraiz:193663348",
+        "fuente": "fincaraiz",
+        "area_m2": 89.0,
+        "precio": 580000000,
+        "precio_m2": 6516854
+      },
+      {
+        "origen": "factibilidad_castellana.xlsx:SECTORIAL:14",
+        "id_anuncio": "fincaraiz:193631554",
+        "fuente": "fincaraiz",
+        "area_m2": 100.0,
+        "precio": 890000000,
+        "precio_m2": 8900000
+      }
+    ],
+    "precio_m2_por_estado_en_zona": {
+      "remodelado": {
+        "n": 7,
+        "mediana": 6969697
+      },
+      "habitable": {
+        "n": 5,
+        "mediana": 6483516
+      },
+      "por_remodelar": {
+        "n": 0,
+        "mediana": null
+      }
+    }
+  },
+  "calidad_datos_zona": {
+    "anuncios_en_zona": 16,
+    "duplicados_eliminados": 3,
+    "anuncios_unicos": 13,
+    "anuncios_invalidos": {},
+    "anuncios_validos": 13
+  },
+  "entorno": {
+    "radio_busqueda_m": 800,
+    "estacion_mas_cercana": {
+      "nombre": "Santa Lucía",
+      "sistema": "metro",
+      "distancia_m": 1994
+    },
+    "estaciones_en_radio": 0,
+    "equipamientos_en_radio": {
+      "educacion": 23,
+      "salud": 6,
+      "parques": 11,
+      "abastecimiento": 13,
+      "seguridad": 1,
+      "cultura": 5
+    },
+    "aproximado": true
+  },
+  "norma": {
+    "tratamiento_pot": null,
+    "estado": "pendiente_capa",
+    "motivo": "Falta el archivo data/geo/pot_tratamientos.geojson"
+  },
+  "datos_faltantes": [
+    "direccion",
+    "coordenadas_exactas",
+    "fecha_publicacion_comparables",
+    "precios_de_cierre"
+  ],
+  "metadatos": {
+    "version_parametros": "1.0",
+    "fecha_generacion": "2026-11-23",
+    "fecha_capas_osm": "2026-11-13T23:03:06Z",
+    "fuentes": [
+      "data/anuncios_muestra.csv",
+      "OpenStreetMap (ODbL)"
+    ]
+  }
+}

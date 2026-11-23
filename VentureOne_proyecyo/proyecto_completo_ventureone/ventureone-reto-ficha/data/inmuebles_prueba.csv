@@ -1,0 +1,12 @@
+id_inmueble,id_anuncio,origen,direccion,zona,municipio,barrio,area_m2,estado,lat,lon,precision_coordenadas,fuente_coordenadas
+INM-01,fincaraiz:7387557,extension_poligono.xlsx:El salvador:5,Cra 36A con Calle 41,buenos_aires_el_salvador,medellin,El Salvador,73,Remodelar,6.238961,-75.560963,cruce,OSM cruce Carrera 36A x Calle 41 (separación 0 m)
+INM-02,arrendamientos_santafe:V12132,extension_poligono.xlsx:El salvador:6,Cra 38B # 40A-29,buenos_aires_el_salvador,medellin,El Salvador,57,Remodelar,6.23908,-75.561813,cruce,OSM cruce Carrera 38B x Calle 40A (separación 12 m)
+INM-03,arrendamientos_santafe:V10746,extension_poligono.xlsx:El salvador:7,Cra 38A # 39-74,buenos_aires_el_salvador,medellin,El Salvador,73,Remodelar,6.237597,-75.562759,cruce,OSM cruce Carrera 38A x Calle 39 (separación 0 m)
+INM-04,fincaraiz:192814617,extension_poligono.xlsx:El salvador:12,Calle 37 con Cra 33B,buenos_aires_el_salvador,medellin,El Salvador,71,OK,6.234861,-75.560101,cruce,OSM cruce Calle 37 x Carrera 33B (separación 0 m)
+INM-05,fincaraiz:193042067,extension_poligono.xlsx:Bombona:6,,buenos_aires_el_salvador,medellin,Bombona No1,67,Remodelar,6.244064,-75.56236,barrio,OSM node/369456412 (Bomboná Numero 1)
+INM-06,fincaraiz:191578699,factibilidad_castellana.xlsx:SECTORIAL:17,,castellana_laureles,medellin,la castellana,90,REMODELADO,6.240226,-75.605418,barrio,OSM node/405051001 (La Castellana)
+INM-07,fincaraiz:193331537,factibilidad_castellana.xlsx:SECTORIAL:13,,castellana_laureles,medellin,la castellana,90,HABITABLE POR REMODELAR,6.240226,-75.605418,barrio,OSM node/405051001 (La Castellana)
+INM-08,fincaraiz:192780858,factibilidad_castellana.xlsx:SECTORIAL:4,,castellana_laureles,medellin,laureles,92,REMODELADO,6.242,-75.595833,barrio,OSM node/375908075 (Laureles)
+INM-09,fincaraiz:192959138,factibilidad_proyecto2.xlsx:SECTORIAL:5,,ditaires_itagui,itagui,ditaires,73,REMODELADA,6.168608,-75.627492,barrio,OSM way/553803506 (Parque Ditaires)
+INM-10,metrocuadrado:17017-M5712498,factibilidad_proyecto2.xlsx:SECTORIAL:12,,ditaires_itagui,itagui,ditaires,64,SIN REMODELAR (OBRA NEGRA),6.168608,-75.627492,barrio,OSM way/553803506 (Parque Ditaires)
+INM-11,ciencuadras:3073540,factibilidad_proyecto2.xlsx:SECTORIAL:16,,ditaires_itagui,itagui,ditaires,63,SIN REMODELAR (OBRA NEGRA),6.168608,-75.627492,barrio,OSM way/553803506 (Parque Ditaires)

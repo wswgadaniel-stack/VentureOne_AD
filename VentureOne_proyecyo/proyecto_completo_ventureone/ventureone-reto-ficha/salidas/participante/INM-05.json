@@ -1,0 +1,186 @@
+{
+  "id_inmueble": "INM-05",
+  "inmueble": {
+    "direccion": null,
+    "barrio": "Bombona No1",
+    "municipio": "medellin",
+    "zona": "buenos_aires_el_salvador",
+    "area_m2": 67.0,
+    "estado_texto": "Remodelar",
+    "estado": "por_remodelar",
+    "coordenadas": {
+      "lat": 6.244064,
+      "lon": -75.56236,
+      "precision": "barrio",
+      "fuente": "OSM node/369456412 (Bomboná Numero 1)"
+    }
+  },
+  "mercado": {
+    "estado_referencia": "por_remodelar",
+    "precio_m2": {
+      "n": 11,
+      "mediana": 4666667,
+      "promedio": 4696756,
+      "minimo": 3081395,
+      "maximo": 6666667,
+      "desviacion": 904997,
+      "coef_variacion": 0.1927
+    },
+    "confianza": {
+      "nivel": "media",
+      "motivo": "11 comparables (mínimo 3) y coeficiente de variación 19.27% (máximo 25%)"
+    },
+    "comparables": [
+      {
+        "origen": "extension_poligono.xlsx:REMODELAR:90",
+        "id_anuncio": "",
+        "fuente": "facebook",
+        "area_m2": 86.0,
+        "precio": 265000000,
+        "precio_m2": 3081395
+      },
+      {
+        "origen": "extension_poligono.xlsx:REMODELAR:83",
+        "id_anuncio": "fincaraiz:192609616",
+        "fuente": "fincaraiz",
+        "area_m2": 65.0,
+        "precio": 250000000,
+        "precio_m2": 3846154
+      },
+      {
+        "origen": "extension_poligono.xlsx:Bombona:18",
+        "id_anuncio": "fincaraiz:193000855",
+        "fuente": "fincaraiz",
+        "area_m2": 60.0,
+        "precio": 260000000,
+        "precio_m2": 4333333
+      },
+      {
+        "origen": "extension_poligono.xlsx:El salvador:9",
+        "id_anuncio": "",
+        "fuente": "facebook",
+        "area_m2": 50.34,
+        "precio": 220000000,
+        "precio_m2": 4370282
+      },
+      {
+        "origen": "extension_poligono.xlsx:REMODELAR:80",
+        "id_anuncio": "fincaraiz:192947650",
+        "fuente": "fincaraiz",
+        "area_m2": 54.0,
+        "precio": 240000000,
+        "precio_m2": 4444444
+      },
+      {
+        "origen": "extension_poligono.xlsx:Bombona:16",
+        "id_anuncio": "fincaraiz:192983429",
+        "fuente": "fincaraiz",
+        "area_m2": 60.0,
+        "precio": 280000000,
+        "precio_m2": 4666667
+      },
+      {
+        "origen": "extension_poligono.xlsx:Bombona:11",
+        "id_anuncio": "fincaraiz:191865763",
+        "fuente": "fincaraiz",
+        "area_m2": 52.0,
+        "precio": 247000000,
+        "precio_m2": 4750000
+      },
+      {
+        "origen": "extension_poligono.xlsx:Bombona:14",
+        "id_anuncio": "fincaraiz:191795362",
+        "fuente": "fincaraiz",
+        "area_m2": 48.6,
+        "precio": 250000000,
+        "precio_m2": 5144033
+      },
+      {
+        "origen": "extension_poligono.xlsx:Bombona:17",
+        "id_anuncio": "fincaraiz:191508829",
+        "fuente": "fincaraiz",
+        "area_m2": 68.0,
+        "precio": 350000000,
+        "precio_m2": 5147059
+      },
+      {
+        "origen": "extension_poligono.xlsx:Bombona:13",
+        "id_anuncio": "fincaraiz:191455271",
+        "fuente": "fincaraiz",
+        "area_m2": 70.0,
+        "precio": 365000000,
+        "precio_m2": 5214286
+      },
+      {
+        "origen": "extension_poligono.xlsx:REMODELAR:6",
+        "id_anuncio": "",
+        "fuente": "aviso_calle",
+        "area_m2": 48.0,
+        "precio": 320000000,
+        "precio_m2": 6666667
+      }
+    ],
+    "precio_m2_por_estado_en_zona": {
+      "remodelado": {
+        "n": 0,
+        "mediana": null
+      },
+      "habitable": {
+        "n": 15,
+        "mediana": 3909091
+      },
+      "por_remodelar": {
+        "n": 17,
+        "mediana": 4666667
+      }
+    }
+  },
+  "calidad_datos_zona": {
+    "anuncios_en_zona": 82,
+    "duplicados_eliminados": 28,
+    "anuncios_unicos": 54,
+    "anuncios_invalidos": {
+      "estado_sin_clasificar": 20,
+      "sin_area": 1
+    },
+    "anuncios_validos": 33
+  },
+  "entorno": {
+    "radio_busqueda_m": 800,
+    "estacion_mas_cercana": {
+      "nombre": "Pabellón del agua EPM",
+      "sistema": "tranvia",
+      "distancia_m": 174
+    },
+    "estaciones_en_radio": 3,
+    "equipamientos_en_radio": {
+      "educacion": 54,
+      "salud": 12,
+      "parques": 19,
+      "abastecimiento": 8,
+      "seguridad": 1,
+      "cultura": 10
+    },
+    "aproximado": true
+  },
+  "norma": {
+    "tratamiento_pot": null,
+    "estado": "pendiente_capa",
+    "motivo": "Falta el archivo data/geo/pot_tratamientos.geojson"
+  },
+  "datos_faltantes": [
+    "direccion",
+    "coordenadas_exactas",
+    "fecha_publicacion_comparables",
+    "precios_de_cierre"
+  ],
+  "metadatos": {
+    "version_parametros": "1.0",
+    "fecha_generacion": "2026-11-23",
+    "fecha_capas_osm": "2026-11-13T23:03:06Z",
+    "fuentes": [
+      "data/anuncios_muestra.csv",
+      "OpenStreetMap (ODbL)"
+    ]
+  }
+}

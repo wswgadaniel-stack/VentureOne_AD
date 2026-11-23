@@ -1,0 +1,12 @@
+id_inmueble,origen,direccion,via_1,via_2,referencia_osm
+INM-01,extension_poligono.xlsx:El salvador:5,Cra 36A con Calle 41,Carrera 36A,Calle 41,
+INM-02,extension_poligono.xlsx:El salvador:6,Cra 38B # 40A-29,Carrera 38B,Calle 40A,
+INM-03,extension_poligono.xlsx:El salvador:7,Cra 38A # 39-74,Carrera 38A,Calle 39,
+INM-04,extension_poligono.xlsx:El salvador:12,Calle 37 con Cra 33B,Calle 37,Carrera 33B,
+INM-05,extension_poligono.xlsx:Bombona:6,,,,node/369456412
+INM-06,factibilidad_castellana.xlsx:SECTORIAL:17,,,,node/405051001
+INM-07,factibilidad_castellana.xlsx:SECTORIAL:13,,,,node/405051001
+INM-08,factibilidad_castellana.xlsx:SECTORIAL:4,,,,node/375908075
+INM-09,factibilidad_proyecto2.xlsx:SECTORIAL:5,,,,way/553803506
+INM-10,factibilidad_proyecto2.xlsx:SECTORIAL:12,,,,way/553803506
+INM-11,factibilidad_proyecto2.xlsx:SECTORIAL:16,,,,way/553803506
